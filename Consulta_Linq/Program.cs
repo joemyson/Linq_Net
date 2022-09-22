@@ -41,6 +41,25 @@ namespace Consulta_Linq
                 Console.WriteLine("{0}\t{1}", g.Id, g.Nome);
             }
 
+            // uso do Join com linq
+
+            var musicas = new List<Musica>
+            {
+                new Musica{Id=1,Nome="Sweet child",GeneroId=1},
+                new Musica{Id=2,Nome="I Shot The Sheriff",GeneroId=2},
+                new Musica{Id=3,Nome="Danubio azul",GeneroId=3}
+            };
+
+            var musicaquery = from m in musicas
+                              join g in generos on m.GeneroId equals g.Id
+                              select new { m, g };
+            Console.WriteLine();
+
+            foreach (var musica in musicaquery)
+            {
+                Console.WriteLine("{0}\t{1}\t{2}",musica.m.Id,musica.m.Nome,musica.g.Nome);
+            }
+
             Console.ReadKey();
         }
     }
@@ -49,5 +68,11 @@ namespace Consulta_Linq
     {
         public int Id { get; set; }
         public string Nome { get; set; }
+    }
+    class Musica
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public int GeneroId{ get; set; }
     }
 }
