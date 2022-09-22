@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Consulta_Linq/1.0.0": {
+        "runtime": {
+          "Consulta_Linq.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Consulta_Linq/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

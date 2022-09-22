@@ -1,0 +1,16 @@
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.exe
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.deps.json
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.runtimeconfig.json
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.runtimeconfig.dev.json
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.dll
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\ref\Consulta_Linq.dll
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\bin\Debug\net5.0\Consulta_Linq.pdb
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.csproj.AssemblyReference.cache
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.GeneratedMSBuildEditorConfig.editorconfig
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.AssemblyInfoInputs.cache
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.AssemblyInfo.cs
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.csproj.CoreCompileInputs.cache
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.dll
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\ref\Consulta_Linq.dll
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.pdb
+C:\Linq_Net\Consulta_Linq\Consulta_Linq\obj\Debug\net5.0\Consulta_Linq.genruntimeconfig.cache
