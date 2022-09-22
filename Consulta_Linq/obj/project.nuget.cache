@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "QJYIIYcZKkhRWJe9h3Sb7JOi94oZMiY1HDeRrerHyXuOBRwuRwTXaF9uBSsiMxu4k6ZvkLMAZ9JPIAmVJBO14g==",
+  "success": true,
+  "projectFilePath": "C:\\Linq_Net\\Consulta_Linq\\Consulta_Linq\\Consulta_Linq.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\joemy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}
